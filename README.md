@@ -1,4 +1,4 @@
-Luadebug
+LuaDebug
 =========
     基于lua debug模块编写的轻量级lua调试库,你可以像使用gdb调试c/c++程序一样使用它
 
@@ -14,4 +14,4 @@ Luadebug
 -----
     lua test.lua or lua test2.lua #input h for help
 
-*ejoy it!
+Enjoy it!
