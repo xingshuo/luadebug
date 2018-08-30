@@ -8,7 +8,7 @@ LuaDebug
 
 支持平台
 -----
-    Linux(Ubuntu)
+    All
 
 运行测试程序
 -----
